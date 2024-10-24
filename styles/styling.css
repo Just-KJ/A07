@@ -61,9 +61,8 @@ main h1 {
 	padding: .3em 0;
 	border-top: 3px solid #931420;
 	border-bottom: 3px solid #931420;
-	border: 5px double #931420; 
-    	border-radius: 15px; 
-    	padding: 20px; 
+	border-right: 3xp solid #931420;
+	border-left: 3xp solid #931420;
     	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
     	background-color: #ffffff; 
     	margin: 20px; 
