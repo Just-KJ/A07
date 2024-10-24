@@ -61,12 +61,12 @@ main h1 {
 	padding: .3em 0;
 	border-top: 3px solid #931420;
 	border-bottom: 3px solid #931420;
-	border: 5px double #f6bb73; /* Double border */
-    border-radius: 15px; /* Rounded corners */
-    padding: 20px; /* Space inside the box */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
-    background-color: #ffffff; /* Background color */
-    margin: 20px; /* Optional: Space outside the box */
+	border: 5px double #f6bb73; 
+    	border-radius: 15px; 
+    	padding: 20px; 
+    	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+    	background-color: #931420; 
+    	margin: 20px; 
 }
 main h2 {
 	color: var(--global-color-1);
