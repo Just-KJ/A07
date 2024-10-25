@@ -21,6 +21,12 @@ body {
     	box-sizing: border-box; 
     	padding: 0; 
 }
+html {
+    border-left: 5px #931420; 
+    border-right: 5px #931420; 
+    height: 100%;
+    box-sizing: border-box; 
+}
 .element {
     border: 3px solid #931420; 
 }
