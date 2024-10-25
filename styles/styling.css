@@ -94,10 +94,8 @@ main li {
 }
 
 /* the styles for the footer */
-body footer{
+footer{
 	background-color: solid #931420;
-}
-footer p {
 	color: solid white;
 	text-align: center;
 	padding: 1em 0;
