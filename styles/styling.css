@@ -94,8 +94,7 @@ main li {
 }
 
 /* the styles for the footer */
-.MYFOOTER {
+footer, .my-footer, #"main-footer {
 	text-align: center; 
-	border: 5px red;
-	background-color: #931420 !imporant;
+	background-color: #931420 !important;
 }
