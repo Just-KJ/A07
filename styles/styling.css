@@ -94,9 +94,3 @@ main li {
 }
 
 /* the styles for the footer */
-.my-footer{
-	background-color: solid #931420 !important;
-	color: solid white !important;
-	text-align: center;
-	padding: 1em 0;
-}
