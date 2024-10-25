@@ -94,5 +94,6 @@ main li {
 /* the styles for the footer */
 footer{
 	text-align: center; 
+	color: white;
 	background-color: #931420 !important;
 }
